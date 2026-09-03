@@ -91,6 +91,6 @@ public class HomeController {
     }
 
     private List<String> getCourses() {
-        return Arrays.asList("DevOps", "AWS", "Python", "Azure Admin With Azure DevOps", "GitHub Actions", "Docker", "Terraform", "K8s","GCP");
+        return Arrays.asList("DevOps", "AWS", "Python", "Azure Admin With Azure DevOps", "GitHub Actions", "Docker", "Terraform", "K8s","GCP")
     }
 }
